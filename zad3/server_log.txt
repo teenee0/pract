@@ -1,0 +1,2 @@
+INFO:root:Connection established with ('127.0.0.1', 64788)
+INFO:root:Received message: Hi!

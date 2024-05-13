@@ -1,0 +1,75 @@
+2024/04/27 22:37:24:('127.0.0.1', 54987):filename = files\1.htm errors=[Errno 2] No such file or directory: 'files\\1.htm'
+2024/04/27 22:42:39:('127.0.0.1', 55209):filename = files\1.htm errors=Denied file type
+2024/04/27 22:51:41:('127.0.0.1', 55417):filename='files\japanese_kitten.png' errors=Denied file type
+2024/04/27 22:52:06:('127.0.0.1', 55428):filename='files\japanese_kitten.png' errors=[Errno 2] No such file or directory: 'files\\japanese_kitten.png'
+2024/04/27 22:52:26:('127.0.0.1', 55429):filename='files\japanese_kitten.jpg' errors='charmap' codec can't decode byte 0x98 in position 426: character maps to <undefined>
+2024/04/27 22:52:29:('127.0.0.1', 55442):filename='files\japanese_kitten.jpg' errors='charmap' codec can't decode byte 0x98 in position 426: character maps to <undefined>
+2024/04/27 22:54:17:('127.0.0.1', 55478):filename='files\japanese_kitten.jpg' errors=
+2024/04/27 22:54:24:('127.0.0.1', 55480):filename='files\japanese_kitten.jpg' errors=
+2024/04/27 22:57:56:('127.0.0.1', 55642):filename='files\japanese_kitten.jpg' errors=
+2024/04/27 22:58:41:('127.0.0.1', 55643):filename='files\japanese_kitten.jpg' errors=
+2024/04/27 22:59:54:('127.0.0.1', 55726):filename='files\1.html' errors=
+2024/04/27 23:00:00:('127.0.0.1', 55728):filename='files\2.html' errors=
+2024/04/27 23:00:15:('127.0.0.1', 55742):filename='files\japanese_kitten.jpg' errors=
+2024/04/27 23:01:22:('127.0.0.1', 55783):filename='files\japanese_kitten.jpg' errors=
+2024/04/27 23:01:38:('127.0.0.1', 55784):filename='files\1.thml' errors=Restricted file type
+2024/04/27 23:01:51:('127.0.0.1', 55815):filename='files\1.html' errors=
+2024/04/27 23:02:17:('127.0.0.1', 55816):filename='files\japanese_kitten.jpg' errors=
+2024/04/27 23:08:40:('127.0.0.1', 56060):filename='files\japanese_kitten.jpg' errors=
+2024/05/13 01:48:57:('127.0.0.1', 49756):filename='files\1.html' errors=
+2024/05/13 01:48:57:('127.0.0.1', 49758):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:50:52:('127.0.0.1', 49956):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:50:53:('127.0.0.1', 49958):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:51:14:('127.0.0.1', 49964):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:51:14:('127.0.0.1', 49966):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:51:21:('127.0.0.1', 49967):filename='files\b.jpeg' errors=[Errno 2] No such file or directory: 'files\\b.jpeg'
+2024/05/13 01:51:22:('127.0.0.1', 49970):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:51:40:('127.0.0.1', 49971):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:51:40:('127.0.0.1', 49979):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:51:43:('127.0.0.1', 49980):filename='files\' errors=Restricted file type
+2024/05/13 01:51:44:('127.0.0.1', 49986):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:51:53:('127.0.0.1', 49987):filename='files\1.html' errors=
+2024/05/13 01:51:53:('127.0.0.1', 49991):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:53:05:('127.0.0.1', 50068):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:53:05:('127.0.0.1', 50071):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:54:15:('127.0.0.1', 50143):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:15:('127.0.0.1', 50145):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:54:16:('127.0.0.1', 50146):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:16:('127.0.0.1', 50149):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:54:17:('127.0.0.1', 50150):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:17:('127.0.0.1', 50153):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:54:17:('127.0.0.1', 50155):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:18:('127.0.0.1', 50158):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:18:('127.0.0.1', 50162):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:18:('127.0.0.1', 50163):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:54:18:('127.0.0.1', 50164):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:54:18:('127.0.0.1', 50165):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:19:('127.0.0.1', 50170):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:19:('127.0.0.1', 50171):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:54:19:('127.0.0.1', 50174):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:19:('127.0.0.1', 50175):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:19:('127.0.0.1', 50176):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:54:19:('127.0.0.1', 50177):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:20:('127.0.0.1', 50181):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:20:('127.0.0.1', 50182):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:54:20:('127.0.0.1', 50184):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:20:('127.0.0.1', 50187):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:20:('127.0.0.1', 50191):filename='files\b.jpg' errors='bytes' object has no attribute 'encode'
+2024/05/13 01:54:20:('127.0.0.1', 50192):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:54:20:('127.0.0.1', 50193):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:54:28:('127.0.0.1', 50194):filename='files\1.html' errors=
+2024/05/13 01:54:28:('127.0.0.1', 50195):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:54:34:('127.0.0.1', 50199):filename='files\2.html' errors=
+2024/05/13 01:54:34:('127.0.0.1', 50201):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 01:55:37:('127.0.0.1', 50218):filename='files\b.jpg' errors=
+2024/05/13 01:55:37:('127.0.0.1', 50220):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 02:00:04:('127.0.0.1', 50299):filename='files\' errors=Restricted file type
+2024/05/13 02:00:04:('127.0.0.1', 50301):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 12:28:25:('127.0.0.1', 52015):filename='files\1.html' errors=
+2024/05/13 12:28:26:('127.0.0.1', 52017):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 12:28:52:('127.0.0.1', 52018):filename='files\1.html' errors=
+2024/05/13 12:28:53:('127.0.0.1', 52023):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 12:29:06:('127.0.0.1', 52024):filename='files\b.lpg' errors=Restricted file type
+2024/05/13 12:29:06:('127.0.0.1', 52028):filename='files\favicon.ico' errors=Restricted file type
+2024/05/13 12:29:11:('127.0.0.1', 52029):filename='files\b.jpg' errors=
+2024/05/13 12:29:11:('127.0.0.1', 52032):filename='files\favicon.ico' errors=Restricted file type

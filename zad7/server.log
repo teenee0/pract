@@ -1,0 +1,113 @@
+2024-05-12 17:49:06,343 - INFO: Received request: ls
+2024-05-12 17:49:06,345 - INFO: Sent response: 
+2024-05-12 17:49:17,122 - INFO: Received request: mkdir
+2024-05-12 17:50:37,368 - INFO: Received request: mkdir lol.txt
+2024-05-12 17:50:37,368 - INFO: Sent response: Folder lol.txt created
+2024-05-12 17:51:14,943 - INFO: Received request: ls
+2024-05-12 17:51:14,943 - INFO: Sent response: lol.txt
+2024-05-12 17:52:03,924 - INFO: Received request: ty
+2024-05-12 17:52:03,924 - INFO: Sent response: bad request
+2024-05-12 17:52:05,101 - INFO: Received request: ty
+2024-05-12 17:52:05,102 - INFO: Sent response: bad request
+2024-05-12 17:52:08,543 - INFO: Received request: fb
+2024-05-12 17:52:08,543 - INFO: Sent response: bad request
+2024-05-12 17:52:11,528 - INFO: Received request: f
+2024-05-12 17:52:11,529 - INFO: Sent response: bad request
+2024-05-12 17:52:12,280 - INFO: Received request: f
+2024-05-12 17:52:12,280 - INFO: Sent response: bad request
+2024-05-12 17:52:12,787 - INFO: Received request: f
+2024-05-12 17:52:12,787 - INFO: Sent response: bad request
+2024-05-12 17:52:13,103 - INFO: Received request: f
+2024-05-12 17:52:13,103 - INFO: Sent response: bad request
+2024-05-12 17:52:13,308 - INFO: Received request: f
+2024-05-12 17:52:13,308 - INFO: Sent response: bad request
+2024-05-12 17:54:39,588 - INFO: Received request: ls
+2024-05-12 17:54:39,588 - INFO: Sent response: lol.txt
+2024-05-12 18:05:18,686 - INFO: Received request: register artur 123
+2024-05-12 18:05:18,686 - INFO: Sent response: bad request
+2024-05-12 18:05:30,315 - INFO: Received request: register artur 123
+2024-05-12 18:05:30,315 - INFO: Sent response: bad request
+2024-05-12 18:06:13,628 - INFO: Received request: exit
+2024-05-12 18:06:13,628 - INFO: Sent response: exit
+2024-05-12 18:06:32,101 - INFO: Received request: register artur 123
+2024-05-12 18:06:32,101 - INFO: Sent response: bad request
+2024-05-12 18:07:01,027 - INFO: Received request: exit
+2024-05-12 18:07:01,027 - INFO: Sent response: exit
+2024-05-12 18:07:09,895 - INFO: Received request: register artur 123
+2024-05-12 18:07:09,895 - INFO: Sent response: bad request
+2024-05-12 18:08:54,379 - INFO: Received request: exit
+2024-05-12 18:08:54,380 - INFO: Sent response: exit
+2024-05-12 18:09:09,799 - INFO: Received request: register artur 123
+2024-05-12 18:09:09,799 - INFO: Sent response: bad request
+2024-05-12 18:11:08,335 - INFO: Received request: gh
+2024-05-12 18:11:08,335 - INFO: Sent response: bad request
+2024-05-12 18:12:03,161 - INFO: Received request: hh
+2024-05-12 18:12:03,161 - INFO: Sent response: bad request
+2024-05-12 18:12:30,442 - INFO: Received request: exit
+2024-05-12 18:12:30,442 - INFO: Sent response: exit
+2024-05-12 18:12:44,508 - INFO: Received request: register art 123
+2024-05-12 18:12:44,508 - INFO: Sent response: bad request
+2024-05-12 18:13:06,637 - INFO: Received request: exit
+2024-05-12 18:13:06,637 - INFO: Sent response: exit
+2024-05-12 18:13:16,410 - INFO: Received request: hh
+2024-05-12 18:13:16,410 - INFO: Sent response: bad request
+2024-05-12 18:14:54,457 - INFO: Received request: exit
+2024-05-12 18:14:54,458 - INFO: Sent response: exit
+2024-05-12 18:15:04,482 - INFO: Received request: reg
+2024-05-12 18:15:04,482 - INFO: Sent response: bad request
+2024-05-12 18:15:11,253 - INFO: Received request: register art 111
+2024-05-12 18:15:52,603 - INFO: Received request: register art 111
+2024-05-12 18:15:52,603 - INFO: Sent response: User art registered successfully
+2024-05-12 18:27:38,186 - INFO: Received request: exit
+2024-05-12 18:27:38,186 - INFO: Sent response: exit
+2024-05-12 18:28:42,104 - INFO: Received request: ls
+2024-05-12 18:30:42,942 - INFO: Received request: ls
+2024-05-12 18:30:53,373 - INFO: Received request: ls
+2024-05-12 20:31:31,637 - INFO: Received request: ls
+2024-05-12 20:51:16,237 - INFO: Received request: ls
+2024-05-12 20:51:50,303 - INFO: Received request: ls
+2024-05-12 20:51:50,304 - INFO: Sent response: art; lol.txt
+2024-05-12 20:52:06,610 - INFO: Received request: login art 123
+2024-05-12 20:52:06,612 - INFO: Sent response: Invalid username or password
+2024-05-12 20:52:22,175 - INFO: Received request: login art 111
+2024-05-12 20:52:22,176 - INFO: Sent response: User art logged in successfully
+2024-05-12 20:52:40,066 - INFO: Received request: pwd
+2024-05-12 20:52:40,067 - INFO: Sent response: C:\Users\Asus\Desktop\практикум зачет\ermakov_pp\zad7
+2024-05-12 20:55:47,794 - INFO: Received request: pwd
+2024-05-12 20:55:47,795 - INFO: Sent response: C:\Users\Asus\Desktop\практикум зачет\ermakov_pp\zad7
+2024-05-12 20:55:59,722 - INFO: Received request: login art 111
+2024-05-12 20:55:59,723 - INFO: Sent response: User art logged in successfully
+2024-05-12 20:56:12,196 - INFO: Received request: exit
+2024-05-12 20:56:12,196 - INFO: Sent response: exit
+2024-05-12 20:56:38,587 - INFO: Received request: login art 111
+2024-05-12 20:56:38,588 - INFO: Sent response: User art logged in successfullyC:\Users\Asus\Desktop\практикум зачет\server_directory\art
+2024-05-12 20:56:46,055 - INFO: Received request: pwd
+2024-05-12 20:56:46,056 - INFO: Sent response: C:\Users\Asus\Desktop\практикум зачет\ermakov_pp\zad7
+2024-05-12 20:57:10,374 - INFO: Received request: mkdir project
+2024-05-12 20:57:10,376 - INFO: Sent response: Folder project created
+2024-05-12 20:57:13,464 - INFO: Received request: ls
+2024-05-12 20:57:13,465 - INFO: Sent response: project
+2024-05-12 21:03:10,220 - INFO: Received request: exit
+2024-05-12 21:03:10,220 - INFO: Sent response: exit
+2024-05-12 21:03:58,487 - INFO: Received request: register artur 123
+2024-05-12 21:03:58,489 - INFO: Sent response: User artur registered successfully
+2024-05-12 21:04:04,711 - INFO: Received request: pwd
+2024-05-12 21:04:04,712 - INFO: Sent response: C:\Users\Asus\Desktop\практикум зачет\server_directory\artur
+2024-05-12 21:05:20,337 - INFO: Received request: ls
+2024-05-12 21:05:20,338 - INFO: Sent response: artur.txt
+2024-05-12 21:05:35,510 - INFO: Received request: readfile artur.txt
+2024-05-12 21:05:35,510 - INFO: Sent response: СЏ РґРµР»Р°Р» СЌС‚Рѕ РІ СЃР°РјРѕР»РµС‚Рµ
+
+2024-05-12 21:06:32,582 - INFO: Received request: readfile artur.txt
+2024-05-12 21:06:32,582 - INFO: Sent response: ya delal eto v samolete
+
+2024-05-12 21:09:37,893 - INFO: Received request: exit
+2024-05-12 21:09:37,894 - INFO: Sent response: exit
+2024-05-12 21:09:47,750 - INFO: Received request: ls
+2024-05-12 21:09:47,751 - INFO: Sent response: art; artur; lol.txt
+2024-05-12 21:09:52,139 - INFO: Received request: pwd
+2024-05-12 21:09:52,139 - INFO: Sent response: C:\Users\Asus\Desktop\практикум зачет\server_directory
+2024-05-12 21:09:58,581 - INFO: Received request: cd artur
+2024-05-12 21:09:58,582 - INFO: Sent response: Directory changed to C:\Users\Asus\Desktop\практикум зачет\server_directory\artur
+2024-05-12 21:10:04,518 - INFO: Received request: pwd
+2024-05-12 21:10:04,518 - INFO: Sent response: C:\Users\Asus\Desktop\практикум зачет\server_directory
